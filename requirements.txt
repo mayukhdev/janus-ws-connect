@@ -1,0 +1,4 @@
+aiohttp==3.9.2
+aiortc==1.7.0
+requests
+aioconsole
